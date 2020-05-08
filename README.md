@@ -18,10 +18,12 @@ Website | https://virusafe.info/
 
 Build | Link
 ------|-----
+1.0.2 | https://apklab.io/apk.html?hash=ee7ddfc069cfc59c699422aee2896d3a55e97aa39ffcfdd08da640b76bef0fbc
 1.0.1 | https://apklab.io/apk.html?hash=1ec403418fca5086cc3417235a447b024efbd7f9ef3fb14401ba9e451117b96e
 
 - JoeSandbox Report
 
 Build | Link
 ------|-----
+1.0.2 | https://www.joesandbox.com/analysis/228651/0/html
 1.0.1 | https://www.joesandbox.com/analysis/225285/0/html
