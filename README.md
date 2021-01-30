@@ -16,6 +16,13 @@ Play Store | https://play.google.com/store/apps/details?id=bg.government.virusaf
 Sources | https://github.com/scalefocus?q=virusafe
 Website | https://virusafe.info/
 
+Version | Release Date
+--------|-------------
+1.0.3 | May 27, 2020
+1.0.2 | May 5, 2020
+1.0.1 | Apr 10, 2020
+1.0.0 | Apr 6, 2020
+
 - APKLAB Analysis
 
 Build | Link
